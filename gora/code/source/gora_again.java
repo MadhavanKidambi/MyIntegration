@@ -30,6 +30,19 @@ public final class gora_again
 	{
 		// --- <<IS-START(java_gora)>> ---
 		// @sigtype java 3.5
+		System.out.println("test");
+		// --- <<IS-END>> ---
+
+                
+	}
+
+
+
+	public static final void new_javaService (IData pipeline)
+        throws ServiceException
+	{
+		// --- <<IS-START(new_javaService)>> ---
+		// @sigtype java 3.5
 		// --- <<IS-END>> ---
 
                 
