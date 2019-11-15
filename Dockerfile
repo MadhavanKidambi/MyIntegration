@@ -1,6 +1,6 @@
 FROM madhavan/base
 
-MAINTAINER madh
+MAINTAINER mki
 
 COPY --chown=1724:1724 gora /opt/softwareag/IntegrationServer/instances/default/packages/gora
 
