@@ -2,10 +2,4 @@
 
 <FLOW VERSION="3.0" CLEANUP="true">
   <COMMENT></COMMENT>
-
-  <!-- nodes -->
-
-<INVOKE TIMEOUT="" SERVICE="base:addToCatalogFlow" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
-</INVOKE>
 </FLOW>
