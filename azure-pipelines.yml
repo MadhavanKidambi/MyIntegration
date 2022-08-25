@@ -9,7 +9,7 @@ variables:
 
 steps:
 - task: Docker@2
-  displayName: Build an image for the msr
+  displayName: Build an image
   inputs:
     repository: $(imageName)
     command: build
